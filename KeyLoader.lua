@@ -184,7 +184,7 @@ UICorner_7.Parent = TextButton_3
 -- Scripts:
 
 local function WHOLE() -- ScreenGui.LocalScript 
-  local key = "ffg"
+        local key = "GmAgdfJaKFaHFjKa3JsaLcjXn"
   
 	local script = Instance.new('LocalScript', ScreenGui)
 
