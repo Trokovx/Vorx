@@ -213,9 +213,11 @@ end)
   
       script.Parent["(((!@@)))"].MouseButton1Down:Connect(function()
         setclipboard("https://mboost.me/a/9ad")
+	script.Parent["(((!@@)))"].TextSize = 13		
 	script.Parent["(((!@@)))"].Text = "Copied To Clipboard"
 	wait(3)
 	script.Parent["(((!@@)))"].Text = "Get Key"
+	script.Parent["(((!@@)))"].TextSize = 16
     end)
   
 end
